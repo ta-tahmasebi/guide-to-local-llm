@@ -43,7 +43,7 @@ ollama run deepseek-coder-v2:16b
 ```
 
 Type your queries and enjoy AI-powered coding assistance!
-![Terminal usage](Images/terminal.png) 
+![Terminal usage](Images/Terminal.png) 
 ---
 
 ## 🌐 Step 4: Enable Web UI (Optional but Recommended)
